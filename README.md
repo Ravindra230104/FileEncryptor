@@ -101,4 +101,4 @@ To run this project, follow these steps:
 - To run the proxy **without cache**, rename the file `proxy_server_with_cache.c` to `proxy_server_without_cache.c` in the Makefile and rebuild.
 
 ## Demo
-
+![Workflow Image](https://github.com/Ravindra230104/FileEncryptor/blob/main/workflow.png) 
